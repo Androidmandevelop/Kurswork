@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/ico"/>
+    <qresource prefix="/">
+        <file>icons/icons8-catalog-64.png</file>
+        <file>icons/icons8-delete-bin-64.png</file>
+        <file>icons/icons8-exit-64.png</file>
+        <file>icons/icons8-macos-close-60.png</file>
+        <file>icons/icons8-save-52.png</file>
+        <file>icons/icons8-save-as-52.png</file>
+        <file>icons/about.png</file>
+        <file>icons/icons8-add-64.png</file>
+        <file>icons/exit.ico</file>
+    </qresource>
+</RCC>

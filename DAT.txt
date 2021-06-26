@@ -1,0 +1,18 @@
+Canon;TX-450;Uneversal;A0;100;500;43000;
+Epson;SureColor;Uneversal;A1;110;850;350000;
+Canon;TX-4000;Uneversal;A2;111;500;43000;
+Epson;SureColor;Jet;A1;125;900;204000;
+Canon;TRX-380;Uneversal;A2;100;500;43000;
+Vicsign ;VS1080;Uneversal;A1;150;800;230000;
+Canon;TS-220;Uneversal;A0;100;1500;150000;
+HP;TX-3500;Jet;A1;130;1000;204000;
+Canon;TS-35;Uneversal;A0;112;1234;150000;
+Vicsign;VS225;Uneversal;A1;110;1150;204000;
+Canon;TR350;Uneversal;A2;200;800;50000;
+Epson; VS1200;Jet;A1;110;600;204000;
+Canon;TM-200;Uneversal;A0;100;650;500000;
+Epson;SureColor;Default;A1;120;900;204000;
+Canon;TM-3600;Uneversal;A0;200;700;45500;
+HP; DesignJet Studio;Jet;A1;110;900;222000;
+HP;TX-4000;Uneversal;A0;100;600;43000;
+Epson;SureColor;Jet;A1;120;650;204000;
